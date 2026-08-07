@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0016-3sum-closest) |
+| [0136-single-number](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KetanPatil9907/Complete-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0191-number-of-1-bits) |
 ## String Matching
 |  |
