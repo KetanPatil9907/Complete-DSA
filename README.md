@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0013-roman-to-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KetanPatil9907/Complete-DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0191-number-of-1-bits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KetanPatil9907/Complete-DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String Matching
 |  |
 | ------- |
