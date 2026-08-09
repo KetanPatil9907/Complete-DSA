@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0455-assign-cookies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KetanPatil9907/Complete-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/KetanPatil9907/Complete-DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0455-assign-cookies) |
 | [1768-merge-strings-alternately](https://github.com/KetanPatil9907/Complete-DSA/tree/master/1768-merge-strings-alternately) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/KetanPatil9907/Complete-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0016-3sum-closest) |
 | [0242-valid-anagram](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0455-assign-cookies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KetanPatil9907/Complete-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/KetanPatil9907/Complete-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -37,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
 |  |
 | ------- |
@@ -85,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sliding Window
 |  |
 | ------- |
