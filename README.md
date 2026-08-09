@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0455-assign-cookies) |
+| [1768-merge-strings-alternately](https://github.com/KetanPatil9907/Complete-DSA/tree/master/1768-merge-strings-alternately) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/KetanPatil9907/Complete-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KetanPatil9907/Complete-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0520-detect-capital) |
+| [1768-merge-strings-alternately](https://github.com/KetanPatil9907/Complete-DSA/tree/master/1768-merge-strings-alternately) |
 ## Math
 |  |
 | ------- |
