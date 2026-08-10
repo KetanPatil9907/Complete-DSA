@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0520-detect-capital) |
 | [1768-merge-strings-alternately](https://github.com/KetanPatil9907/Complete-DSA/tree/master/1768-merge-strings-alternately) |
+| [2390-removing-stars-from-a-string](https://github.com/KetanPatil9907/Complete-DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Math
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KetanPatil9907/Complete-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2390-removing-stars-from-a-string](https://github.com/KetanPatil9907/Complete-DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0455-assign-cookies) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/KetanPatil9907/Complete-DSA/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
