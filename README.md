@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0455-assign-cookies) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/KetanPatil9907/Complete-DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KetanPatil9907/Complete-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/KetanPatil9907/Complete-DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/KetanPatil9907/Complete-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0383-ransom-note) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/KetanPatil9907/Complete-DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -124,4 +126,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0383-ransom-note) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/KetanPatil9907/Complete-DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
