@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0383-ransom-note) |
 | [0520-detect-capital](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0520-detect-capital) |
 | [1768-merge-strings-alternately](https://github.com/KetanPatil9907/Complete-DSA/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/KetanPatil9907/Complete-DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/KetanPatil9907/Complete-DSA/tree/master/2390-removing-stars-from-a-string) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
