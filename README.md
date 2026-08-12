@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/KetanPatil9907/Complete-DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KetanPatil9907/Complete-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/KetanPatil9907/Complete-DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KetanPatil9907/Complete-DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/KetanPatil9907/Complete-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KetanPatil9907/Complete-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/KetanPatil9907/Complete-DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KetanPatil9907/Complete-DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0383-ransom-note) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/KetanPatil9907/Complete-DSA/tree/master/1394-find-lucky-integer-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KetanPatil9907/Complete-DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
