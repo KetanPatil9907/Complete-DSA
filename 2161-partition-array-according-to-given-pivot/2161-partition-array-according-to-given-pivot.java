@@ -39,4 +39,41 @@ class Solution {
 
         return ans;
     }
-}
+}/*
+class Solution {
+    public int[] pivotArray(int[] nums, int pivot) {
+
+        int smaller = 0;
+        int equal = 0;
+
+        // Count smaller and equal elements
+        for (int num : nums) {
+            if (num < pivot)
+                smaller++;
+            else if (num == pivot)
+                equal++;
+        }
+
+        int[] ans = new int[nums.length];
+
+        int smallIndex = 0;
+        int equalIndex = smaller;
+        int greaterIndex = smaller + equal;
+
+        // Place elements in correct positions
+        for (int num : nums) {
+
+            if (num < pivot) {
+                ans[smallIndex++] = num;
+            }
+            else if (num == pivot) {
+                ans[equalIndex++] = num;
+            }
+            else {
+                ans[greaterIndex++] = num;
+            }
+        }
+
+        return ans;
+    }
+}*/
