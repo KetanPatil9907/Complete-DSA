@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0455-assign-cookies) |
 | [0643-maximum-average-subarray-i](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0455-assign-cookies) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0191-number-of-1-bits) |
+| [0287-find-the-duplicate-number](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0287-find-the-duplicate-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KetanPatil9907/Complete-DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String Matching
 |  |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/KetanPatil9907/Complete-DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
@@ -167,4 +171,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
