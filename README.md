@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0455-assign-cookies) |
 | [0643-maximum-average-subarray-i](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0567-permutation-in-string) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0455-assign-cookies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KetanPatil9907/Complete-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -125,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/KetanPatil9907/Complete-DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
