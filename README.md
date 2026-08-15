@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0202-happy-number) |
 | [0233-number-of-digit-one](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0233-number-of-digit-one) |
+| [0509-fibonacci-number](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KetanPatil9907/Complete-DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Divide and Conquer
 |  |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0233-number-of-digit-one) |
+| [0509-fibonacci-number](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0509-fibonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KetanPatil9907/Complete-DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -185,4 +187,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0233-number-of-digit-one) |
+| [0509-fibonacci-number](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
