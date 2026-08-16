@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0567-permutation-in-string) |
 | [1768-merge-strings-alternately](https://github.com/KetanPatil9907/Complete-DSA/tree/master/1768-merge-strings-alternately) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0796-rotate-string) |
