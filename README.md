@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0520-detect-capital](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0567-permutation-in-string) |
+| [0796-rotate-string](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0796-rotate-string) |
 | [1768-merge-strings-alternately](https://github.com/KetanPatil9907/Complete-DSA/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/KetanPatil9907/Complete-DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Math
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
