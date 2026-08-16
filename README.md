@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0349-intersection-of-two-arrays) |
