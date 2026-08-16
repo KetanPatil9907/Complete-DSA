@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0567-permutation-in-string) |
 | [1768-merge-strings-alternately](https://github.com/KetanPatil9907/Complete-DSA/tree/master/1768-merge-strings-alternately) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0520-detect-capital](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0567-permutation-in-string) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0233-number-of-digit-one) |
+| [0392-is-subsequence](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/KetanPatil9907/Complete-DSA/tree/master/0509-fibonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KetanPatil9907/Complete-DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Floyd's Cycle Finding Algorithm
