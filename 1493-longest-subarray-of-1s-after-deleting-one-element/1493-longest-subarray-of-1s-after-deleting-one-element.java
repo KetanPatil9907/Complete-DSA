@@ -23,7 +23,7 @@ class Solution {
             }
 
             // Subtract 1 because we MUST delete one element
-            maxLen = Math.max(maxLen, i - left);
+            maxLen = Math.max(maxLen, (i - left + 1) - 1);
         }
 
         return maxLen;
